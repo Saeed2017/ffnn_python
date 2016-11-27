@@ -46,7 +46,7 @@ def TrainingData_Generation(opt):
             bb = math.sin(aa);
 
         
-    elif opt == 8
+    #more changes to be made
         
         
         
